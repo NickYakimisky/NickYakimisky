@@ -8,7 +8,6 @@ I’m a passionate student of Computer Science with years of experience and educ
 
 * 🌍  I'm based in Colorado
 * 🚀  I'm currently working on an Encounter Manager for D&D 5E
-* 🧠  I'm learning Next.js
 
 ### Skills
 
